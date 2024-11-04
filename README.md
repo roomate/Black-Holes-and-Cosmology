@@ -6,3 +6,5 @@ self-collapsing homogeneous and rotationally symmetric star. In particular, with
 the trajectory of the rays of light when irresistibly falling into it.
 This project is based on the very first paper dealing with the subject 
 [On Continued Gravitational Contraction](http://www.weylmann.com/oppenheimer2.pdf), written by Oppenheimer itself!
+
+It was done in collaboration with Thomas Levasseur.
