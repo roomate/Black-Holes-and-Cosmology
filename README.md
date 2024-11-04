@@ -15,6 +15,6 @@ It was done in collaboration with Thomas Levasseur.
 
 🌌
 
-In complement is a notebook on Cosmology, in which the spherical collapse equation (or rather Friedmann equation)
+In complement, you can find a notebook on Cosmology. Friedmann equation (or more bluntly the spherical collapse equation)
 is solved for different cosmologies. It is standard and remains basic level in cosmology theory, but yet is fundamental to understand 
 the long-time behaviour of large-scale structures.
