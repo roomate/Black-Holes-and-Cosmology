@@ -1,4 +1,6 @@
-# Compact Objects and Black Holes
+# Black Holes & Cosmology
+
+## Black Holes
 
 ⭐➡️🕳️
 Ever wondered how an object collapse into a black hole ? This project will help you understand in the academic case of a 
@@ -8,3 +10,11 @@ This project is based on the very first paper dealing with the subject
 [On Continued Gravitational Contraction](http://www.weylmann.com/oppenheimer2.pdf), written by Oppenheimer itself!
 
 It was done in collaboration with Thomas Levasseur.
+
+## Cosmology
+
+🌌
+
+In complement is a notebook on Cosmology, in which the spherical collapse equation (or rather Friedmann equation)
+is solved for different cosmologies. It is standard and remains basic level in cosmology theory, but yet is fundamental to understand 
+the long-time behaviour of large-scale structures.
